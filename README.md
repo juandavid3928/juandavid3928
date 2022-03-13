@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavid3928&label=Profile%20views&color=0e75b6&style=flat" alt="juandavid3928" /> </p>
 
-- 🔭 Actualmente, estoy trabajando en un proyecto como aprendiz. **TelaSoft**
+- 🔭 Actualmente, Estoy buscando trabajo como aprendiz. **TelaSoft**
 
 - 🌱 Actualmente estoy aprendiendo **Scrum, Asp .Net Core**
 
