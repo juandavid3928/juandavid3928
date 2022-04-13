@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavid3928&label=Profile%20views&color=0e75b6&style=flat" alt="juandavid3928" /> </p>
 
-- 🔭 Actualmente, Estoy buscando las prácticas como aprendiz. **TelaSoft**
-
 - 🌱 Actualmente estoy aprendiendo **Scrum, Asp .Net Core, JavaScript, Bootstrap**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [juandavid3928](juandavid3928)
