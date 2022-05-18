@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Cochero</h1>
-<h3 align="center">Un apasionado desarrollador front-end y Back-end de Colombia, Que cada día aprendo y mejoro mis conocimientos.eloper de India</h3>
+<h3 align="center">Un apasionado desarrollador front-end y Back-end de Colombia, Que cada día aprendo y mejoro mis conocimientos</h3>
 
 - 🌱Actualmente estoy aprendiendo **Scrum, Asp .Net Core, JavaScript, Bootstrap, Gogland, React**
 
