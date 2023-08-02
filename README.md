@@ -9,7 +9,9 @@
 <br clear="both">
 
 <div align="center">
-  <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="34" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/juan-cochero-b63590234/" target="_blank"> 
+    <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="34" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -17,9 +19,7 @@
 <br clear="both">
 
 <div align="right">
-  <a  href="https://www.linkedin.com/in/juan-cochero-b63590234/">
      <img src="https://visitor-badge.laobi.icu/badge?page_id=juandavid3928.juandavid3928&"  />
-  <a/>
 </div>
 
 ###
