@@ -102,12 +102,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/juandavid3928/juandavid3928/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=juandavid3928&theme=darkhub&no-frame=false&no-bg=true&margin-w=12" height="240" alt="streak graph"  />
