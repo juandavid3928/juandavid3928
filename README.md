@@ -97,9 +97,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="110" alt="streak graph"  />
-  <img src="https://streak-stats.demolab.com?user=juandavid3928&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=juandavid3928&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100" alt="streak graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
