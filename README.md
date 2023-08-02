@@ -17,7 +17,9 @@
 <br clear="both">
 
 <div align="right">
-  <img href="https://www.linkedin.com/in/juan-cochero-b63590234/"  src="https://visitor-badge.laobi.icu/badge?page_id=juandavid3928.juandavid3928&"  />
+  <a  href="https://www.linkedin.com/in/juan-cochero-b63590234/">
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=juandavid3928.juandavid3928&"  />
+  <a/>
 </div>
 
 ###
