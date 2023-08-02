@@ -97,6 +97,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juandavid3928&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="110" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=juandavid3928&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="110" alt="streak graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juandavid3928&theme=darkhub&no-frame=false&no-bg=true&margin-w=12" height="220" alt="streak graph"  />
+</div>
+
+
 
