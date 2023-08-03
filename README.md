@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="220" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 ###
@@ -92,6 +92,17 @@
 
 ###
 
+<h3 align="left">🔭  Projects completed</h3>
+
+- 🔭 Project number one [Todo](https://todo-app-3928.netlify.app/)
+- 🔭 Project number two [Movie API](https://movies-app-3928.netlify.app/)
+- 🔭 Project number three [Quotation](https://cotizador-app-3928.netlify.app/)
+- 🔭 Project number fort [Cryptocurrencies](https://criptos-app-3928.netlify.app/)
+- 🔭 Project number five [Expense control](https://expense-control-app-3928.netlify.app/)
+
+  
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -102,11 +113,36 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid3928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100" alt="streak graph"  />
 </div>
 
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=juandavid3928&theme=darkhub&no-frame=false&no-bg=true&margin-w=12" height="240" alt="streak graph"  />
 </div>
 
 
+###
+
+<h3 align="left">📶   Statistics :</h3>
+
+###
+
+<div align="center">
+<a href="https://github.com/juandavid3928">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juandavid3928&theme=dark" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juandavid3928&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juandavid3928&theme=dark" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juandavid3928&theme=dark" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juandavid3928&theme=dark" height="180em" />
+</div>
+
+###
+
+<h3 align="left">⚡Activity Graph :</h3>
+
+###
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavid3928&theme=react-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
