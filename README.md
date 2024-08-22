@@ -100,8 +100,7 @@
 - 🔭 Project number fort [Quotation](https://cotizador-app-3928.netlify.app/)
 - 🔭 Project number five [Cryptocurrencies](https://criptos-app-3928.netlify.app/)
 - 🔭 Project number six [Expense control](https://expense-control-app-3928.netlify.app/)
-- 🔭 Project number Seven [QuickJot](https://quickjot-3928.netlify.app/)
-  
+-   
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
